@@ -1,6 +1,6 @@
 # turboenergyutilities
 
-CambiaAmperiosCarga --> Modifica vía Modbus el registro 210 del inversor, que especifica la corriente máxima de carga de la bater
+CambiaAmperiosCarga --> Modifica vía Modbus el registro 210 del inversor, que especifica la corriente máxima de carga de la batería.
 
 $ sudo ./CambiaAmperiosCarga.py
 
