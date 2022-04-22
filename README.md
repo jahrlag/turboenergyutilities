@@ -13,9 +13,14 @@ Ejemplo: CambiaAmperiosCarga 80 --> Establece en 80A la corriente máxima de car
 $ sudo ./CambiaAmperiosCarga.py 50
 
 Nuevo valor: 50
+  
 Conectando al inversor...
+
 Leyendo el valor de carga actual...
+  
 Valor Anterior:  50
+  
 Estableciendo nuevo valor de carga...
+  
 Nuevo Valor escrito correctamente: 50
 
